@@ -1,0 +1,35 @@
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de log
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+*.swp
+*.swo
+*~
+
+# Carpetas de build
+build/
+target/
+dist/
+
+# Archivos de ejemplo generados por el programa
+ejemplo.txt
+try-with-resources-ejemplo.txt
+reporte_pedido_*.txt
+
+# Archivos de backup
+*.bak
+*.tmp
+
+# Directorios de configuración de VS Code y GitHub
+.vscode/
+.github/
