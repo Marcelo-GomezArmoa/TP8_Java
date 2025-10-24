@@ -3,7 +3,6 @@
 **Alumno**: Marcelo, Gomez Armoa  
 **Comisión**: 8
 **Materia**: Programación II  
-**Institución**: Tecnicatura Universitaria en Programación  
 
 ## 📋 Descripción del Proyecto
 
