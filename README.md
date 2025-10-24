@@ -201,9 +201,5 @@ El programa incluye pruebas automatizadas que cubren:
 - ✅ Reutilización de código
 - ✅ Validaciones robustas
 
-## 🤝 Contribuciones
 
-Este proyecto es parte del TP 8 de la materia Programación II. Las mejoras y sugerencias son bienvenidas.
-
-## 📞 Contacto
 
